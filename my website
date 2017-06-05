@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Welcome folks</title>
+<style>
+*{
+font-size:42px;
+}
+h1{
+color:Aqua;
+background-color:rgb(42,45,108);
+}
+
+</style>
+</head>
+  <body>
+    <h1>My musings on Nature</h1>
+<br/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/279px-Feynmann_Diagram_Gluon_Radiation.svg.png" alt="image" length=40 />  
+<p>Xdlolo2537</p>
+
+  </body>
+
+
+
+
+
+</html>
