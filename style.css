@@ -1,0 +1,50 @@
+#NAVIG{
+  margin:10px;
+  padding:0px;
+}
+
+.image{
+  text-align:center;
+  border-style:solid;
+  margin:0px;
+  padding:2px;
+  position:relative;
+  background-image:url("https://image.shutterstock.com/z/stock-photo-complex-math-formulas-on-whiteboard-mathematics-and-science-with-economics-concept-real-equations-360806618.jpg");
+  background-repeat:repeat-x;
+ 
+}
+.left-text{
+  position:absolute;
+  top:60px;
+  left:30px;
+}
+.navbar{
+  background-color:rgba(144, 206, 136,0.6) !important;
+}
+ul{
+  font-size:25px;
+  background-color:rgba(144, 206, 136,0.6) !important;
+  font-color:rgb(227,12,83);
+}
+.image2{
+  background-color:red;
+  position:absolute;
+  top:0px;left:0px;
+  z-index:-1;
+  width:100%;
+}
+
+.further-des{
+  position:relative;
+}
+.photo-des{
+  color:rgb(200,20,70);
+  font-size:20px;
+}
+.text_on_image2{
+  color:rgb(255, 50, 50);
+  font-size:35px;
+}
+.image:hover{
+  
+}
