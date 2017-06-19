@@ -1,26 +1,50 @@
 <!DOCTYPE html>
-<html>
-  <head><title>Welcome folks</title>
-<style>
-*{
-font-size:42px;
-}
-h1{
-color:Aqua;
-background-color:rgb(42,45,108);
-}
-
-</style>
-</head>
+<html lang="en">
+  <head>
+    <title>Tribute page</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
   <body>
-    <h1>My musings on Nature</h1>
-<br/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/279px-Feynmann_Diagram_Gluon_Radiation.svg.png" alt="image" length=40 />  
-<p>Xdlolo2537</p>
-
+    <div class="navbar navbar-default navigator">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a href="#" class="navbar navbar-brand">Richard feynman</a>
+        </div>
+          <ul class="nav navbar-nav" id="NAVIG">
+            <li><a href="#">Early life</a></li>
+            <li><a href="#">Works</a></li>
+            <li><a href="#">Finding things out</a></li>
+            <li><a href="#">Surely you're joking</a></li>
+        </ul>
+      </div>
+    </div>
+   
+    <div class="prelimnary-background">
+      <div class="image"><a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvtQc5qiDm3Viq877EjoErr98od4mRvykyLXekoL2a2o5hOyP"  alt="Cinque Terre" width="304" height="304" 
+            class="img-circle"/></a>
+        <div class="left-text">
+          <button class="btn btn-success"><a href="#" target="_blank"> FB page dedicated to him</a></button>
+        </div>
+        <p class="photo-des">Richard Feynman was one of the greatest theoretical physicists of his time.Some people are great physicists and some are great teavhers but he was <strong><em>both</em></strong></p>
+      </div>
+      <div class="further-des"> 
+      <img src="http://static3.businessinsider.com/image/504a6895ecad046d2700000b-1200/hubble.jpg"class="image2"/>
+        <div class="text_on_image2">
+          <div class="container">
+            <div class="page-header">
+              <p>The first principle is that you must not fool yourself and you are the easiest person to fool-Feynman</p>
+        </div>
+    </div>
   </body>
-
-
-
-
-
 </html>
+        
+        
+        
+        
+            
